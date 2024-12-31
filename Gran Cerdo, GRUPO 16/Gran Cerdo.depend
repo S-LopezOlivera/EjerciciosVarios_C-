@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1716316759 source:c:\users\emilse\desktop\gran cerdo\gran cerdo\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	"header GC.h"
+
+1716319304 c:\users\emilse\desktop\gran cerdo\gran cerdo\header gc.h
+	<iostream>
+	<cstdlib>
+	<time.h>
+
+1717284423 source:c:\users\admin\onedrive\documentos\gran cerdo, grupo 16\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	"header GC.h"
+
+1717379636 c:\users\admin\onedrive\documentos\gran cerdo, grupo 16\header gc.h
+	<iostream>
+	<cstdlib>
+	<time.h>
+
